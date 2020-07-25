@@ -1,0 +1,2 @@
+E:\C_C++工程文档\CharacterVideo\x64\Debug\CharacterVideo.exe
+E:\C_C++工程文档\CharacterVideo\x64\Debug\CharacterVideo.pdb

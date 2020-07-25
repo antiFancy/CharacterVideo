@@ -1,0 +1,6 @@
+﻿  Ccontain.cpp
+  Cvideo.cpp
+  main.cpp
+  正在生成代码...
+E:\C_C++工程文档\CharacterVideo\Cvideo.cpp(36): warning C4715: “Cvideo::Oframe”: 不是所有的控件路径都返回值
+opencv_world420d.lib(opencv_world420d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突

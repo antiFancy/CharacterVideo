@@ -1,0 +1,7 @@
+﻿  Ccontain.cpp
+  Cvideo.cpp
+E:\C_C++工程文档\CharacterVideo\Cvideo.cpp(38,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\C_C++工程文档\CharacterVideo\Cvideo.cpp(55,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  CharacterVideo.vcxproj -> E:\C_C++工程文档\CharacterVideo\x64\Debug\CharacterVideo.exe
